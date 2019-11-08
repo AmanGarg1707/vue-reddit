@@ -34,6 +34,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 After running the build command, all the code for deployment will be stored in the dist folder - **dist\reddit**.
 Just place the **reddit** folder in the root of your server and deploy. Path will be - **_www.yourdomain.com_/reddit/reddit.html**
 
+[A Demo link](https://reddit1707.firebaseapp.com)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
