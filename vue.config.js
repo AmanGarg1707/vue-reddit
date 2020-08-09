@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: '/reddit/',
+    publicPath: '/vue-reddit/',
     indexPath: 'reddit.html',
     outputDir: 'dist/reddit',
     productionSourceMap: false
